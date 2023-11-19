@@ -1,0 +1,20 @@
+E:\software\Year 12 Major Project\Physics Website\Physics Website\bin\Debug\Physics Website.exe.config
+E:\software\Year 12 Major Project\Physics Website\Physics Website\bin\Debug\Physics Website.exe
+E:\software\Year 12 Major Project\Physics Website\Physics Website\bin\Debug\Physics Website.pdb
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics_Website.Properties.Resources.resources
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.csproj.GenerateResource.cache
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.csproj.CoreCompileInputs.cache
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.exe
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.pdb
+D:\software\Year 12 Major Project\Physics Website\Physics Website\bin\Debug\Physics Website.exe.config
+D:\software\Year 12 Major Project\Physics Website\Physics Website\bin\Debug\Physics Website.exe
+D:\software\Year 12 Major Project\Physics Website\Physics Website\bin\Debug\Physics Website.pdb
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics_Website.Properties.Resources.resources
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.csproj.GenerateResource.Cache
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.csproj.CoreCompileInputs.cache
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.exe
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.pdb
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.csprojAssemblyReference.cache
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics_Website.PhysicsCalculator.resources
+E:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics_Website.PhysicsCalculator.resources
+D:\software\Year 12 Major Project\Physics Website\Physics Website\obj\Debug\Physics Website.csprojAssemblyReference.cache
